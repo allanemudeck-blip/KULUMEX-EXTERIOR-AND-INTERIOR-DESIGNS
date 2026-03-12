@@ -25,7 +25,7 @@ const Hero = () => {
           >
             <div className="mb-6">
               <img 
-                src="https://i.postimg.cc/cJdgDWxs/102139.jpg" 
+                src="https://i.postimg.cc/8C939WqX/102414.jpg" 
                 alt="KULUMEX Logo" 
                 className="h-10 w-auto object-contain rounded-sm border border-gold/20"
                 referrerPolicy="no-referrer"

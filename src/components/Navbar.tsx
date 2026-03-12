@@ -30,7 +30,7 @@ const Navbar = () => {
           <div className="flex-shrink-0">
             <a href="#home" className="flex items-center">
               <img 
-                src="https://i.postimg.cc/cJdgDWxs/102139.jpg" 
+                src="https://i.postimg.cc/8C939WqX/102414.jpg" 
                 alt="KULUMEX Logo" 
                 className="h-12 w-auto object-contain rounded-sm"
                 referrerPolicy="no-referrer"

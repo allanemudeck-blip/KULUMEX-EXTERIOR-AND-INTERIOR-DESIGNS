@@ -13,7 +13,7 @@ const Footer = () => {
           <div className="space-y-6">
             <div className="mb-6">
               <img 
-                src="https://i.postimg.cc/cJdgDWxs/102139.jpg" 
+                src="https://i.postimg.cc/8C939WqX/102414.jpg" 
                 alt="KULUMEX Logo" 
                 className="h-16 w-auto object-contain rounded-sm"
                 referrerPolicy="no-referrer"
@@ -29,7 +29,7 @@ const Footer = () => {
               <a href="#" className="w-10 h-10 rounded-full border border-white/10 flex items-center justify-center text-white/60 hover:border-gold hover:text-gold transition-all">
                 <Instagram size={18} />
               </a>
-              <a href="https://wa.me/256746225361" className="w-10 h-10 rounded-full border border-white/10 flex items-center justify-center text-white/60 hover:border-gold hover:text-gold transition-all">
+              <a href="https://wa.me/256746225261" className="w-10 h-10 rounded-full border border-white/10 flex items-center justify-center text-white/60 hover:border-gold hover:text-gold transition-all">
                 <MessageCircle size={18} />
               </a>
             </div>

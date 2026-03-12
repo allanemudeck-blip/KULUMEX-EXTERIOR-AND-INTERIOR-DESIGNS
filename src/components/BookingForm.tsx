@@ -11,7 +11,7 @@ const BookingForm = () => {
     message: ''
   });
 
-  const WHATSAPP_NUMBER = '256746225361';
+  const WHATSAPP_NUMBER = '256746225261';
 
   const handleChange = (e: React.ChangeEvent<HTMLInputElement | HTMLTextAreaElement>) => {
     const { name, value } = e.target;
